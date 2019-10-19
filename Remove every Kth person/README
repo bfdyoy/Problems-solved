@@ -1,0 +1,6 @@
+N children play the well-known ala-bala-portocala game.
+They are placed on a circle and start counting from 1 to k. The k-th child is
+removed from the game. The process continues with the rest of the children,
+each time counting from 1 up to k, until all the children are removed from the
+game. Implement an efficient algorithm for printing out the order in which the
+children are removed from the game using a circular list.

@@ -1,0 +1,5 @@
+Let us consider a book with numbered pages. The num-
+bering requires the use of n digits. Design an algorithm to determine the number
+of book pages. For example, for a book with 500 pages the number of digits is:
+9 (1...9) + 2 X 90 (10...99) + 3 X 401 (100...500) = 9 + 180 + 1203 = 1392
+digits. Given input 1392 you must print output 500.

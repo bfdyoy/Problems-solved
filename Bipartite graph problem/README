@@ -1,2 +1,8 @@
-Determine the minimum number of colours needed to colour each node in a undirected
-graph, such that two adjacent vertex do not have the same colour.
+A fortress has multiple types of towers: attack and
+defense towers. Between any pair of towers, there may or may not be a tunnel.
+Suppose we have n towers and we have a list of r pairs of towers for which there
+are tunnels. Implement an O(n+r)-time algorithm that determines whether it is
+possible to assign some of the towers as attack and the remaining ones as defense
+towers such that each tunnel is between an attack and a defense tower. If it
+is possible to perform such a designation, your implemented algorithm should
+produce it.
